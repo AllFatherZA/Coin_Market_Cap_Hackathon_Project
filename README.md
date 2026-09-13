@@ -2,6 +2,7 @@
 
 A Python-based CLI tool that monitors live cryptocurrency prices via the **CoinMarketCap WebSocket API**.  
 It allows users to set price thresholds for selected tokens and sends **email alerts** when those thresholds are reached.
+Here is a live link to the project demo ---->https://youtu.be/3ObLTfAXv5E
 
 ---
 
